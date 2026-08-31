@@ -7,9 +7,7 @@ class Solution {
             {
                 nums[k]=nums[j];
                 k=k+1;
-
             }
-
         }
         return k;
     }
